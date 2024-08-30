@@ -1,0 +1,6 @@
+langchain-groq
+unstructured
+selenium
+chromadb
+pandas
+python-dotenv
